@@ -13,7 +13,7 @@ print("\nDesviación estándar:\n", df.std(numeric_only=True))
 
 # Histrograma
 plt.figure()
-plt.hist(df["price"], bins=50)
+plt.hist(df["log_price"], bins=50)
 plt.title("Distribución de precios")
 plt.xlabel("Precio")
 plt.ylabel("Frecuencia")
@@ -22,7 +22,7 @@ plt.show()
 
 # Boxplot
 plt.figure()
-sns.boxplot(x=df["price"])
+sns.boxplot(x=df["log_price"])
 plt.title("Boxplot del precio")
 plt.savefig("boxplot_precio.png")
 plt.show()
@@ -38,10 +38,10 @@ plt.show()
 
 # Scatter
 plt.figure()
-plt.scatter(df["availability_365"], df["price"])
-plt.xlabel("Disponibilidad")
-plt.ylabel("Precio")
-plt.title("Precio vs Disponibilidad")
+plt.scatter(df["number_of_reviews"], df["log_price"])
+plt.xlabel("Número de reseñas")
+plt.ylabel("Precio (log)")
+plt.title("Precio vs Reseñas")
 plt.savefig("scatter_precio_disponibilidad.png")
 plt.show()
 
