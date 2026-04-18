@@ -13,7 +13,7 @@ Guardar todas las actividades realizadas durante el parcial 2 para la materia Ci
 - ✅ Semana 1: Fundamentos y Big Data
 - ✅ Semana 2: Arquitecturas y MongoDB
 - ✅ Semana 3: Python y Análisis Exploratorio
-- [ ] Semana 4: Preparación de Datos
+- ✅ Semana 4: Preparación de Datos
 - [ ] Semana 5: Regresión Lineal Simple
 - [ ] Semana 6: Regresión Lineal Múltiple
 - [ ] Semana 7: Regresión Logística y Comunicación
@@ -43,6 +43,16 @@ Guardar todas las actividades realizadas durante el parcial 2 para la materia Ci
 ### Semana 3
 
 - Instrucciones de la actividad
-- Carpeta con archivo consolidado con la actividad y ejjercicios complementarios
+- Carpeta con archivo consolidado con la actividad y ejercicios complementarios
 - Carpeta con archivo extra de clase
 - Carpeta con codigos de python y los datasets
+
+---
+
+### Semana 4
+
+- Instrucciones de la actividad
+- Carpeta con archivo consolidado con la actividady y ejercicios complementarios
+- Carpeta con archivos extra dados en clase
+- Carpeta con codigos de python
+- Carpeta con imagenes insertadas en el archivo consolidado
