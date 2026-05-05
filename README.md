@@ -15,7 +15,7 @@ Guardar todas las actividades realizadas durante el parcial 2 para la materia Ci
 - ✅ Semana 3: Python y Análisis Exploratorio
 - ✅ Semana 4: Preparación de Datos
 - ✅  Semana 5: Regresión Lineal Simple
-- [ ] Semana 6: Regresión Lineal Múltiple
+- ✅ Semana 6: Regresión Lineal Múltiple
 - [ ] Semana 7: Regresión Logística y Comunicación
 
 ---
@@ -65,3 +65,13 @@ Guardar todas las actividades realizadas durante el parcial 2 para la materia Ci
 - Carpeta con el archivo consolidado con unicamente la actividad
 - Carpeta con los archivos extras dados en clase
 - Carpeta con los codigos de python, datasets usados y la visualizacion o graficas
+
+---
+
+### Semana 6
+
+- Presentacion "Comparacion de campeones"
+- Carpeta con archivo csv de datos
+- Zip con actividad de clase
+
+---
