@@ -72,7 +72,13 @@ Guardar todas las actividades realizadas durante el parcial 2 para la materia Ci
 
 - Presentacion "Comparacion de campeones"
 - Carpeta con archivo csv de datos
-- Zip con actividad de clase
+- Zip con actividad de clase  
 **Debido a un error con git por el tamaño de los datos no pude subir la carpeta**
 
 ---
+
+### Semana 7
+
+- Instrucciones de la actividad
+- Carpeta con archivo consolidado
+- Carpeta con toda las partes del proyecto final
