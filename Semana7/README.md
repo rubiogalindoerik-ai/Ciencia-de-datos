@@ -20,17 +20,17 @@ un algoritmo que muestre que variables afectan al precio de los alojamientos
 
 ## Estructura del proyecto
 
-Semana7/
-├── Consolidado/
-│ └── Semana7_Consolidado.md # Documento consolidado semanal
-├── Proyecto/
-  ├── Final/
-  │ ├── Modelo.py # Código del modelo
-  │ ├── Limpieza.py # Código de limpieza
-  │ ├── Datos/ # Datasets utilizados
-  │ └── Visualizaciones/ # Gráficas generadas
-  ├── Presentacion/ # Presentación (en Markdown)
-  └── README.md # Documentacion del proyecto
+Semana7/  
+├── Consolidado/  
+│ └── Semana7_Consolidado.md # Documento consolidado semanal  
+├── Proyecto/  
+  ├── Final/  
+  │ ├── Modelo.py # Código del modelo  
+  │ ├── Limpieza.py # Código de limpieza  
+  │ ├── Datos/ # Datasets utilizados  
+  │ └── Visualizaciones/ # Gráficas generadas  
+  ├── Presentacion/ # Presentación (en Markdown)  
+  └── README.md # Documentacion del proyecto  
 
 ---
 
