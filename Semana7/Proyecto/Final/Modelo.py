@@ -1,6 +1,7 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+import statsmodels.api as sm
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score, mean_squared_error
@@ -53,3 +54,7 @@ plt.ylabel("Predicciones (log_price)")
 plt.legend()
 plt.grid(True)
 plt.show()
+
+X_train_with_const = sm.add_constant(X_train)
+modelo_stats = sm.OLS(y_train, X_train_with_const).fit()
+print("P-VALUE", modelo_stats.summary())

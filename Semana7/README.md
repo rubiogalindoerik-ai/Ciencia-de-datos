@@ -41,7 +41,7 @@ Semana7/
 **Comando de instalacion**:
 
 ```bash
-pip install pandas seaborn matplotlib scikit-learn
+pip install pandas seaborn matplotlib scikit-learn statsmodels
 ```
 
 ---
