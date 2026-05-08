@@ -190,4 +190,4 @@ medio esto se ve por como conde los puntos estan concentrados tambien es donde s
 la linea roja pero conforme sube el precio las predicciones se dispersan lo que muestra que
 como se dijo antes con el coeficiente de correlacion hay mas factores que afectan al
 precio final del alojamiento tambien se colabora con el error cuadratico medio que es
-relativamente bajo por lo que los valores dispersos no estan lejos de los valores reales ademas al final agrege el P-VALUE para verificar que no sea al azar pero todos los resulados dan 0 lo que prueba que no lo son, aunque el modelo es solido tambien muestra multicolinealidad entre las habitaciones y las camas por razones obvias pero afectan su capacidad predictiva
+relativamente bajo por lo que los valores dispersos no estan lejos de los valores reales ademas al final agrege el P-VALUE para verificar que no sea al azar pero todos los resulados dan 0 lo que prueba que no lo son, aunque el modelo es solido tambien muestra multicolinealidad entre las habitaciones y las camas por razones obvias pero no afecta su capacidad predictiva
